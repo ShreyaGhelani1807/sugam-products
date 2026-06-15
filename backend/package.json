@@ -1,0 +1,48 @@
+{
+  "name": "sugam-products-api",
+  "version": "1.0.0",
+  "description": "Sugam Products B2B E-Commerce API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "prisma migrate deploy && node src/server.js",
+    "dev": "nodemon src/server.js",
+    "postinstall": "prisma generate",
+    "build": "prisma generate",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate dev",
+    "db:deploy": "prisma migrate deploy",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "db:seed": "node prisma/seed.js",
+    "reconcile": "node scripts/reconcile.js",
+    "backup": "node scripts/backup.js"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "keywords": [],
+  "author": "Sugam Products",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "axios": "^1.17.0",
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.11.0",
+    "multer": "^2.1.1",
+    "nodemailer": "^8.0.11",
+    "nodemon": "^3.1.14",
+    "prisma": "^6.16.2",
+    "razorpay": "^2.9.6",
+    "sharp": "^0.35.1",
+    "uuid": "^14.0.0"
+  }
+}
