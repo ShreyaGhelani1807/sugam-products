@@ -73,7 +73,21 @@
       "Bash(echo \"ok: $f\")",
       "Bash(node -e \"require\\(''''./src/app.js''''\\); console.log\\(''''APP_OK''''\\)\")",
       "Bash(NODE_ENV=production DATABASE_URL=\"x\" JWT_SECRET=\"0123456789012345678901234567890123\" node -e \"require\\(''''./src/config/env''''\\).validateEnv\\(\\); console.log\\(''''SHOULD_NOT_REACH''''\\)\")",
-      "Bash(node -e ':*)"
+      "Bash(node -e ':*)",
+      "Read(//d/Projects/**)",
+      "Bash(ls -la *.zip)",
+      "Bash(ls -la \"sugamproducts.com \\(2\\).zip\")",
+      "Bash(do ls:*)",
+      "Read(//d/Projects/Sugam Products Final/fruit/**)",
+      "Bash(node --check migration/import-products.js)",
+      "Bash(OLD_SITE_DIR=\"D:/Projects/_sugam_old/sugamproducts.com\" node migration/import-products.js --dry-run)",
+      "Bash(curl -s -m 5 -o /dev/null -w \"backend root: %{http_code}\\\\n\" http://localhost:5000/)",
+      "Bash(curl -s -m 5 -w \"\\\\nproducts: %{http_code}\\\\n\" http://localhost:5000/api/products)",
+      "Bash(node -e \"require\\(''''dotenv''''\\).config\\(\\); const p=require\\(''''./src/lib/prisma''''\\); p.product.findMany\\({take:1}\\).then\\(r=>{console.log\\(''''DB_OK rows='''',r.length\\);process.exit\\(0\\)}\\).catch\\(e=>{console.log\\(''''DB_ERR:'''', e.message.split\\(''''\\\\n''''\\)[0]\\);process.exit\\(0\\)}\\)\")",
+      "Bash(psql --version)",
+      "Bash(docker --version)",
+      "Bash(export PGPASSWORD=postgres)",
+      "Bash(psql -h localhost -U postgres -tAc \"SELECT 1\")"
     ]
   }
 }

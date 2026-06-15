@@ -1,0 +1,41 @@
+name,slug,category,unit,price,features,description,image_path
+Apple,apple,Fruit,kg,0,"Long shelf life; No coloring agent; Rich taste","Apple soft drink concentrate.",images/portfolio/fruit/apple.png
+Banana Ripe,banana-ripe,Fruit,kg,0,"Long shelf life; Naturally processed; Free from artificial preservatives","Banana Ripe soft drink concentrate.",images/portfolio/fruit/Banana.jpg
+Black Current,black-current,Fruit,kg,0,"Hygienically processed; Pure; Scrumptious flavor; Longer shelf life","Black Current soft drink concentrate.",images/portfolio/fruit/blackcurrent.png
+Blue Berry,blue-berry,Fruit,kg,0,"Delicious in taste; Longer shelf life; Nutritional; Pure and safe; Rich aroma","Blue Berry soft drink concentrate.",images/portfolio/fruit/blueberry.png
+Clear Lemon,clear-lemon,Fruit,kg,0,"Delicious in taste; Longer shelf life; Nutritional; Pure and safe; Rich aroma","Clear Lemon soft drink concentrate.",images/portfolio/fruit/clearlemon.png
+Clear Masala,clear-masala,Soda,kg,0,"Refreshing; Flavorful; Mouth-watering taste","Clear Masala soda concentrate.",images/portfolio/fruit/clearmasala.png
+Cola,cola,Soda,kg,0,"Rich aroma; Refreshing; Flavorful; Mouth-watering taste","Cola soda concentrate.",images/portfolio/fruit/cola.png
+Cream Soda,cream-soda,Soda,kg,0,"Fresh and pure; Naturally processed; No coloring agent","Cream Soda concentrate.",images/portfolio/fruit/creamsoda.png
+Dadam (Anar),dadam-anar,Fruit,kg,0,"Real taste; Long shelf life; Naturally processed","Dadam (Anar) pomegranate soft drink concentrate.",images/portfolio/fruit/dadam.png
+Falsa,falsa,Fruit,kg,0,"Free from contaminants; Long shelf life; Free from artificial flavor","Falsa soft drink concentrate.",images/portfolio/fruit/falsa.png
+Fruit Beer,fruit-beer,Soda,kg,0,"Unadulterated; Pure; Pleasing aroma; Fine taste","Fruit Beer concentrate.",images/portfolio/fruit/fruitbeer.png
+Fudina Masala,fudina-masala,Soda,kg,0,"Real taste; Delicious in taste; Long shelf life; Naturally processed","Fudina (mint) Masala soda concentrate.",images/portfolio/fruit/fudina.png
+Ghatt Mango,ghatt-mango,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Nutritional","Ghatt Mango soft drink concentrate.",images/portfolio/fruit/ghattmango.png
+Ghatt Pineapple,ghatt-pineapple,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Nutritional","Ghatt Pineapple soft drink concentrate.",images/portfolio/fruit/ghattpineapple.png
+Grape,grape,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Naturally processed","Grape soft drink concentrate.",images/portfolio/fruit/grape.png
+Ginger,ginger,Soda,kg,0,"Free from contaminants; Long shelf life; No preservatives added","Ginger soft drink concentrate.",images/portfolio/vegitable/ginger.png
+Green Apple,green-apple,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Naturally processed","Green Apple soft drink concentrate.",images/portfolio/fruit/greenapple.png
+Jamfal (Red),jamfal-red,Fruit,kg,0,"Rich in taste; Pure and safe; Longer shelf life; Delicious in taste; Naturally processed","Jamfal (Red Guava) soft drink concentrate.",images/portfolio/fruit/jamfal.png
+Kala Khatta,kala-khatta,Soda,kg,0,"Hygienically processed; Pure; No added colors; Scrumptious flavor; Longer shelf life","Kala Khatta soda concentrate.",images/portfolio/fruit/kalakhatta.png
+Lemon D,lemon-d,Soda,kg,0,"Unadulterated; Original fruit taste; Pure; Scrumptious flavor; Mouth-watering taste","Lemon D soda concentrate.",images/portfolio/fruit/lemond.png
+Lichy,lichy,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Enhance the taste; Accurate components","Lichy (Lychee) soft drink concentrate.",images/portfolio/fruit/lichy.png
+Lime Lemon,lime-lemon,Fruit,kg,0,"Unadulterated; Original fruit taste; Pure; Hygienic; Mouth-watering taste","Lime Lemon soft drink concentrate.",images/portfolio/fruit/lemon.png
+Green Mango,green-mango,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Nutritional","Green Mango soft drink concentrate.",images/portfolio/fruit/greenmango.png
+Mango Ripe,mango-ripe,Fruit,kg,0,"Rich aroma; Pure and safe; Longer shelf life; Delicious in taste; Nutritional","Mango Ripe soft drink concentrate.",images/portfolio/fruit/mangoripe.png
+Masala Soda,masala-soda,Soda,kg,0,"Delicious in taste; Longer shelf life; Nutritional; Pure and safe; Rich aroma","Masala Soda concentrate.",images/portfolio/fruit/masalasoda.png
+Melon,melon,Fruit,kg,0,"Rich in taste; Pure and safe; Longer shelf life; Delicious in taste; Nutritional","Melon soft drink concentrate.",images/portfolio/fruit/melon.png
+Mix Fruit,mix-fruit,Fruit,kg,0,"No adulterant; Longer shelf life; Pure; Nutrition rich","Mix Fruit soft drink concentrate.",images/portfolio/fruit/mixfruit.png
+Mosambi,mosambi,Fruit,kg,0,"Fresh and pure; Long shelf life; Free from artificial preservatives","Mosambi (Sweet Lime) soft drink concentrate.",images/portfolio/fruit/mosambi.png
+Nimboo Pani,nimboo-pani,Fruit,kg,0,"Delicious in taste; Longer shelf life; Nutritional; Pure and safe; Rich aroma","Nimboo Pani soft drink concentrate.",images/portfolio/fruit/limbupani.png
+Orange,orange,Fruit,kg,0,"Longer shelf life; Hygienic and healthy; Enhance the taste; Rich aroma; Scrumptious flavor","Orange soft drink concentrate.",images/portfolio/fruit/orange.png
+Peach,peach,Fruit,kg,0,"Fresh and pure; Long shelf life; Free from artificial preservatives","Peach soft drink concentrate.",images/portfolio/fruit/peach.png
+Pepio,pepio,Soda,kg,0,"Longer shelf life; Hygienic and healthy; Enhance the taste; Rich aroma; Scrumptious flavor","Pepio soda concentrate.",images/portfolio/fruit/papio.png
+Pineapple,pineapple,Soda,kg,0,"Rich aroma; Longer shelf life; Zero added flavors; Enhance the taste; No harmful preservatives","Pineapple concentrate.",images/portfolio/fruit/pineapple.png
+Raspberry,raspberry,Soda,kg,0,"Longer shelf life; Hygienic and healthy; Enhance the taste; Rich aroma; Scrumptious flavor","Raspberry concentrate.",images/portfolio/fruit/raspberry.png
+Rum,rum,Soda,kg,0,"Non alcoholic; Long shelf life; No artificial flavor; Rich taste","Rum (non-alcoholic mocktail) concentrate.",images/portfolio/fruit/rum.png
+Sahi Gulab (Rose),sahi-gulab-rose,Soda,kg,0,"Longer shelf life; Hygienic and healthy; Enhance the taste; Rich aroma; Scrumptious flavor","Sahi Gulab (Rose) concentrate.",images/portfolio/fruit/sahigulab.png
+Strawberry,strawberry,Soda,kg,0,"Long shelf life; No artificial flavor; Rich taste","Strawberry concentrate.",images/portfolio/fruit/strawberry.png
+Vimto,vimto,Soda,kg,0,"Longer shelf life; Hygienic and healthy; Enhance the taste; Rich aroma; Scrumptious flavor","Vimto concentrate.",images/portfolio/fruit/vimto.png
+Vodka,vodka,Soda,kg,0,"Non alcoholic; Long shelf life; No artificial flavor; Rich taste","Vodka (non-alcoholic mocktail) concentrate.",images/portfolio/fruit/vodka.png
+Wiskey,wiskey,Soda,kg,0,"Non alcoholic; Long shelf life; No artificial flavor; Rich taste","Wiskey (non-alcoholic mocktail) concentrate.",images/portfolio/fruit/wisky.png
